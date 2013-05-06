@@ -1,0 +1,1 @@
+Add function to get the first 10 letter of each crubm and put together as alt field on images
